@@ -23,6 +23,5 @@ logs
 .env.*
 !.env.example
 
-nuxt.config.ts
 pnpm-lock.yaml
 img

@@ -1,0 +1,8 @@
+* {
+	transition-property: background-color, border-color, text-decoration-color;
+	transition-duration: 300ms;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}

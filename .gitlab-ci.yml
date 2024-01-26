@@ -1,0 +1,6 @@
+gitsync:
+  stage: deploy
+  script:
+    - curl -f -k https://resync.cbpf.br/mesonpi-projetos
+  only:
+    - main
